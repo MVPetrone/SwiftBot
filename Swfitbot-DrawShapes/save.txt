@@ -1,0 +1,4 @@
+Square: [80](angles: [])
+Largest Shape: Square [80]cm
+Most Frequent Shape: Square, 1 times
+Average Time Taken: 17.482 seconds
